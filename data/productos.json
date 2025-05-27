@@ -1,0 +1,14 @@
+[
+  {
+    "id": 2,
+    "nombre": "Mouse Logiteche",
+    "precio": 25,
+    "stock": 50
+  },
+  {
+    "id": 3,
+    "nombre": "Monitor Samsung",
+    "precio": 300,
+    "stock": 20
+  }
+]
