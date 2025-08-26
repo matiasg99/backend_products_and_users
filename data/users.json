@@ -1,0 +1,23 @@
+[
+  {
+    "id": 2,
+    "nombre": "matias",
+    "email": "matias@picallex.com",
+    "password": "$2b$10$dSSfbDMpnzoKunaEqDO.gOI7FRNvyOLmMQi.A356UL/BNNVXb3Ir.",
+    "rol": "cliente"
+  },
+  {
+    "id": 3,
+    "nombre": "matias",
+    "email": "matias@gmail.com",
+    "password": "$2b$10$fl4mxhftRYpDh.bOTkHk6u9yORmr62jOsCE/h0XfkW/qrXlLEGatG",
+    "rol": "admin"
+  },
+  {
+    "id": 4,
+    "nombre": "admin",
+    "email": "admin@gmail.com",
+    "password": "$2b$10$Iak6lzkUaOOBrYpyuDiegusG99Szwh6lPnvR6Mlx.eHEsn7VpGAw.",
+    "rol": "admin"
+  }
+]
