@@ -19,6 +19,12 @@ Para iniciar el servidor, ejecuta:
 npm start
 ```
 
+Usuario admin:
+```
+email: admin@gmail.com
+password: test
+```
+
 El servidor se ejecutará por defecto en `http://localhost:3000`.
 
 ## Endpoints principales
